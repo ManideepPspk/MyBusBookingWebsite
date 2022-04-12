@@ -100,6 +100,7 @@ const Loginform = ({history}) => { // history is used to get props and is to nav
                         <form  onSubmit={e=>handleSubmit(e)}>
 
                             <div className="container">
+                                <h3 style = {{color: 'black'}}><b>Account Login</b></h3>
                                 <label htmlFor="uname"><b>Email :</b></label>
                                 <input type="email" placeholder="Enter Email" name="uname" onBlur={e=>handleEmail(e)} />
                                 <div style={{color: "red"}}>{email}</div>
