@@ -1,0 +1,23 @@
+.row{
+    color:whitesmoke;
+}
+
+.col-5 h3{
+    border-bottom:2px solid greenyellow;
+}
+
+.landing1{
+    display:flex;
+    color:whitesmoke;
+}
+.seat-view{
+    margin:5px;
+    width:50%;
+}
+.summary{
+    margin:5px;
+    width:50%;
+}
+.summary h3{
+    border-bottom:2px solid greenyellow;
+}

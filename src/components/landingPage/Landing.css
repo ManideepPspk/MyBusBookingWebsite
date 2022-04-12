@@ -1,0 +1,22 @@
+
+button:hover {
+  opacity: 3;
+}
+.disabled{
+  cursor: not-allowed;
+  text-decoration: none;
+  pointer-events: none;
+  background-color:#022c43;
+  color:cadetblue;
+}
+.box{
+  border: 2px solid black;
+  padding: 30px;
+}
+.name{
+  font-family: monospace;
+  font-weight: bold;
+  font-style: italic;
+  font-size : 27px;
+  color : #3C1053FF
+}

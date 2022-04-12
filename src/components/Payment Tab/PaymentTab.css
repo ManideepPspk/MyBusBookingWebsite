@@ -1,0 +1,15 @@
+.card{
+    color:  white;
+}
+label{
+    color: white;
+}
+
+.amount{
+    background-color: orangered;
+    color : white;
+    padding: 2px 1px 0px 0px;
+}
+.credit{
+    color: white;
+}
