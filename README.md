@@ -3,4 +3,4 @@
 # To start the application please pull the code and do `npm install` then `npm start`
 
 The same website is hosted online using netlify.
-Online URL: https://delicate-buttercream-82d800.netlify.app/
+Online URL: https://manideepbus.netlify.app/
